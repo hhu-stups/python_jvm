@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svnroot/javavm/!svn/ver/1/tests
+END
+test_reflection.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/javavm/!svn/ver/58/tests/test_reflection.py
+END
+test_gnucp.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/javavm/!svn/ver/58/tests/test_gnucp.py
+END
+test_jni.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/javavm/!svn/ver/19/tests/test_jni.py
+END
+test_interp.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/javavm/!svn/ver/58/tests/test_interp.py
+END
+test_native.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/javavm/!svn/ver/37/tests/test_native.py
+END
+test_thread.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/javavm/!svn/ver/55/tests/test_thread.py
+END
